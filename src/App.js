@@ -1,10 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
-
+import { Header } from './Header';
+import { Profile } from './Profile';
+import { Projects } from './Projects';
+import { Terminal } from './Terminal';
 function App() {
   return (
     <div className="App">
-     <h3>hello</h3>
+      <Header/>
+     <Terminal/>
+     <Projects/>
+     <Profile/>
     </div>
   );
 }

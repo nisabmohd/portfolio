@@ -1,0 +1,29 @@
+.profilepage{
+    padding-top: 99px;
+    padding-bottom: 99px;
+    width: 100%;
+}
+.profilepage img{
+    width: 159px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+.profilep{
+    width: 55%;
+    margin: auto;
+    font-size: 19px;
+    letter-spacing: 2px;
+    font-weight: lighter;
+}
+.namecustomprof{
+    width: 55%;
+    margin: auto;
+    font-size: 22px;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    margin-bottom: 19px;
+}
+.contactimgs a img{
+    margin-top: 19px;
+    width: 45px;
+}
