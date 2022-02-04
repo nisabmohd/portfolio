@@ -1,15 +1,17 @@
 import './App.css';
+import { Footer } from './Footer';
 import { Header } from './Header';
-import { Profile } from './Profile';
-import { Projects } from './Projects';
+// import { Profile } from './Profile';
+// import { Projects } from './Projects';
 import { Terminal } from './Terminal';
 function App() {
   return (
     <div className="App">
       <Header/>
      <Terminal/>
-     <Projects/>
-     <Profile/>
+     {/* <Projects/> */}
+     {/* <Profile/> */}
+     <Footer></Footer>
     </div>
   );
 }

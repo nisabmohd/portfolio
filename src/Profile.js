@@ -11,8 +11,7 @@ export const Profile = () => {
             MOHD NISAB ALAM
         </p>
         <p className="glitch profilep">
-            I've always been a great problem solver, an ambivert, and a technophile obsessed with the latest techs.
-            I’m familiar with a variety of programming languages including C, Java, JavaScript, Python and various web dev skills such as HTML, CSS, Nodejs, Reactjs, Expressjs. But I’m always adding new skills to my repertoire.
+        Hi, I'm Nisab, a 3rd year undergraduate. A Full-Stack Web Developer and a Competitive Programming Enthusiast , who is obsessed with the idea of improving himself and wants a platform to grow and excel .
         </p>
         <div className="contactimgs">
             <a href="https://www.linkedin.com/in/mohd-nisab-alam-725148197/"><img src={lin} alt="" /></a>
